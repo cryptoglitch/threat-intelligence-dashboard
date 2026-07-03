@@ -4,6 +4,12 @@ A Python-based Threat Intelligence Dashboard that analyzes IP reputation using t
 
 ---
 
+## 📷 Screenshot
+
+![Threat Intelligence Dashboard](screenshots/dashboard.png)
+
+
+---
 ## 📌 Features
 
 - 🔍 Analyze public IP addresses
