@@ -1,0 +1,1 @@
+I built a Python-based Threat Intelligence Dashboard that integrates with the AbuseIPDB API to analyze IP reputation in real time. The application securely manages API credentials with environment variables, classifies IP risk, and presents the results in a terminal dashboard.
