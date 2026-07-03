@@ -92,7 +92,7 @@ Risk Level      🟢 Low
 
 ## 👩‍💻 Author
 
-**Paloma Galindo**
+**Paloma**
 
 Information Technology Management Student
 
